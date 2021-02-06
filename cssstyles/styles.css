@@ -163,7 +163,7 @@ i.fa-youtube {
 }
 
 #first-popup {
-  border-bottom: 1px solid rgba(187, 29, 12, 0.205);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.534);
   padding-bottom: 10px;
 }
 
@@ -175,7 +175,7 @@ i.fa-youtube {
 
 .views-opinion {
   display: flex;
-  border-bottom: 1px solid rgb(187, 30, 12);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.534);
   justify-content: space-between;
 }
 
@@ -236,15 +236,139 @@ p.views {
   font-size: 12px;
 }
 
-.subscribe {
-  padding: 10px 6px;
-  background-color: rgba(255, 0, 0, 0.863);
-  border: none;
+.subs-btn {
+  width: 110px;
+  height: 40px;
+  background-color: rgba(255, 0, 0, 0.932);
+  border: 1px solid rgb(255, 255, 255);
   border-radius: 5px;
   margin-right: 10px;
+  color: white;
+
 }
 
 .subs a {
-  text-decoration: none;
-  color: white;
+ text-decoration: none;
+}
+
+.subs a:focus {
+ border: 2px solid white;
+}
+
+.channel-description {
+ width: 70%;
+ margin-left: 15%;
+}
+
+.channel-details {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.534);
+  margin-left: 7%;
+ width: 55%;
+}
+
+.comments-section {
+ display: flex;
+ align-items: center;
+ margin-left: 7%;
+}
+
+.comments-section p {
+ color: grey;  
+ margin-right: 30px;
+ font-size: 20px;
+}
+
+.sort-by img {
+ margin-right: 5px;
+}
+
+.comments-section a {
+ text-decoration: none;
+ color: grey;  
+ font-size: 13px;
+ display: flex;
+ align-items: center;
+}
+
+.comments-section a:focus {
+ border: 1px solid grey;
+ padding-left: 5px;
+ border-radius: 5px;
+}
+
+.add-comment {
+  display: flex;
+  margin-left: 7%;
+ }
+
+.public-comment p {
+ border-bottom: 1px solid rgba(128, 128, 128, 0.534);
+ color: rgba(128, 128, 128, 0.61);
+ margin-left: 15px;
+ margin-right: 15px;
+}
+
+.profile-img {
+ width: 40px;
+ height: 40px;
+ border-radius: 50%;
+}
+
+.comment {
+ flex: 1;
+}
+
+#comment-img {
+ flex-grow: 0;
+}
+
+.comments-and-responses {
+ display: flex;
+ margin-left: 7%;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ width: 20%;
+}
+
+.dp {
+ color: limegreen;
+ width: 60px;
+ height: 40px;
+ border-radius: 50%;
+ background-color: blue;
+ font-size: 30px;
+ text-align: center;
+ margin-right: 15px;
+}
+
+.comments-and-responses a {
+ text-decoration: none;
+ color: black;
+}
+
+.comment-response {
+ display: flex;
+ align-items: center;
+ margin-top: 10px;
+ font-size: 12px;
+ width: 60%;
+ justify-content: space-around;
+}
+
+.comment-response img {
+ width: 15px;
+ height: 15px;
+}
+
+.reply {
+ margin-left: 10px; 
+ font-size: 11px; 
+}
+
+.time {
+ color: grey;  
+}
+
+.commentator {
+ margin-bottom: 10px;  
 }
