@@ -78,7 +78,6 @@ body {
  display: flex;
  align-items: center;
  font-size: 14px;
-
 }
 
 .nav-profile:focus {
@@ -103,7 +102,6 @@ i.fa-youtube {
 .youtube-link:focus {
  border: 1px solid rgba(0, 0, 255, 0.37);
  margin-left: 20px;
- padding-left: 0;
  padding: 5px;
  border-radius: 5px;
 }
@@ -244,15 +242,12 @@ p.views {
  border-radius: 5px;
  margin-right: 10px;
  color: white;
-
+ outline: none;
+ cursor: pointer;
 }
 
-.subs a {
- text-decoration: none;
-}
-
-.subs a:focus {
- border: 2px solid white;
+.subs-btn:focus {
+ border: 2px solid rgba(255, 255, 255, 0.068);
 }
 
 .channel-description {
@@ -261,8 +256,8 @@ p.views {
 }
 
 .channel-details {
-  border-bottom: 1px solid rgba(128, 128, 128, 0.534);
-margin-left: 7%;
+ border-bottom: 1px solid rgba(128, 128, 128, 0.534);
+ margin-left: 7%;
  width: 55%;
 }
 
