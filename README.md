@@ -11,7 +11,7 @@ I randomly picked videos from youtube and embedded them.
 
 ## Live Demo
 
-[Embedding videos](https://rawcdn.githack.com/garang96/Embedding-Videos/tree/Embbeding)
+[Embedding videos](https://rawcdn.githack.com/garang96/Embedding-Videos/tree/master)
 
 # Authors
 
