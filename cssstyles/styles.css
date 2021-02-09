@@ -247,22 +247,14 @@ p.views {
 
 }
 
-.subs a {
- text-decoration: none;
-}
-
-.subs a:focus {
- border: 2px solid white;
-}
-
 .channel-description {
  width: 70%;
  margin-left: 15%;
 }
 
 .channel-details {
-  border-bottom: 1px solid rgba(128, 128, 128, 0.534);
-margin-left: 7%;
+ border-bottom: 1px solid rgba(128, 128, 128, 0.534);
+ margin-left: 7%;
  width: 55%;
 }
 
