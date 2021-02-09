@@ -25,7 +25,7 @@ This project involves embedding videos. It's more like cloning a youtube page wh
 
 Contributions,issues,and feature requests are welcomed!
 
-Feel free tocheck the issues page.
+Feel free to check the [issues page](https://rawcdn.githack.com/garang96/Embedding-Videos/tree/Embbeding)
 
 ## Show your support
 
@@ -39,6 +39,6 @@ Give a star if you like this project!
 
 ## License
 
-This project is MIT licensed.
+This project is [MIT](https://rawcdn.githack.com/garang96/Embedding-Videos/tree/Embbeding) licensed.
 
 
