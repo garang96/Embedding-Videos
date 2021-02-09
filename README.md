@@ -19,4 +19,20 @@ I randomly picked some videos from youtube and embedded them on the page.
 
 - Github: [@garang96](https://github.com/garang96)
 
+## Contributing
+
+contributions,issues,and feature requests are welcomed!
+
+Feel free tocheck the [issues page].
+
+## Show your support
+
+Give a star if you like this project.
+
+## Acknowledgements
+
+* hat hit for anyone whose code was used
+* inspiration
+* etc.
+
 
