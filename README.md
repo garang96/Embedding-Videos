@@ -21,18 +21,22 @@ I randomly picked some videos from youtube and embedded them on the page.
 
 ## Contributing
 
-contributions,issues,and feature requests are welcomed!
+Contributions,issues,and feature requests are welcomed!
 
-Feel free tocheck the [issues page].
+Feel free tocheck the issues page.
 
 ## Show your support
 
-Give a star if you like this project.
+Give a star if you like this project!
+
+## License
+
+This project is MIT licensed.
 
 ## Acknowledgements
 
 * hat hit for anyone whose code was used
 * inspiration
-* etc.
+* etc
 
 
