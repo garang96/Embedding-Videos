@@ -1,4 +1,4 @@
-# HTML & CSS: New York Times - clone
+# HTML & CSS: Embedding videos on a page
 
 I randomly picked some videos from youtube and embedded them on the page.
 
