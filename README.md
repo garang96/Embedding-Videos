@@ -13,7 +13,7 @@ This project involves embedding videos. It's more like cloning a youtube page wh
 
 ## Live Demo
 
-[Embedding-Videos](https://rawcdn.githack.com/garang96/Embedding-Videos/pull/1#issue-568988875)
+[Embedding-Videos](https://garang96.github.io/Embedding-Videos/)
 
 ## Authors
 
