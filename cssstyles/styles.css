@@ -204,15 +204,13 @@ p.views {
 }
 
 .channel-subs {
-  margin-left: 7%;
   display: flex;
   justify-content: space-between;
 }
 
-.channel-img {
+.channel {
   display: flex;
   align-items: center;
-  font-size: 15px;
 }
 
 .channel a {
@@ -221,9 +219,9 @@ p.views {
 }
 
 .subs-num {
-  margin-left: 3.7rem;
   color: rgba(0, 0, 0, 0.678);
   font-size: 12px;
+  line-height: 20px;
 }
 
 .subs-btn {
@@ -239,7 +237,7 @@ p.views {
 
 .channel-description {
   width: 70%;
-  margin-left: 15%;
+  margin-left: 8%;
 }
 
 .channel-details {
