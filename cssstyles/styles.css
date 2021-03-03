@@ -41,19 +41,20 @@ body {
   border: 1px solid rgba(0, 0, 255, 0.24);
 }
 
-.fa-bell {
+.common-font {
   font-size: 16px;
+}
+
+.fa-bell {
   margin-top: 5px;
 }
 
 .apps {
-  font-size: 16px;
   margin-left: 25px;
   font-weight: bolder;
 }
 
 .ellipsis {
-  font-size: 16px;
   margin-left: 25px;
 }
 
@@ -78,6 +79,8 @@ body {
   display: flex;
   align-items: center;
   font-size: 14px;
+  width: 100px;
+  border-radius: 5px;
 }
 
 .nav-profile:focus {
@@ -93,17 +96,15 @@ nav a {
   font-weight: 1000;
 }
 
-i.fa-youtube {
-  color: red;
-  font-size: 20px;
+.youtube {
+  display: flex;
+  align-items: center;
   margin-left: 20px;
 }
 
-.youtube-link:focus {
-  border: 1px solid rgba(0, 0, 255, 0.37);
-  margin-left: 20px;
-  padding: 5px;
-  border-radius: 5px;
+i.fa-youtube {
+  color: red;
+  font-size: 20px;
 }
 
 .main-video {
